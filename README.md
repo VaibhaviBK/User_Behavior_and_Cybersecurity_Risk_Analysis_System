@@ -5,6 +5,7 @@ Project Overview :
       The Project designed to analyze user login activities and identify unusual behavior that may indicate potential cybersecurity risks. The system examines user, device, and location information to understand login patterns and detect activities such as logins from new devices or unusual locations. Based on the identified behavior, the system provides security recommendations to help improve user account monitoring and security.
 
 
+
 Technologies Used :
 
 - Python
@@ -13,9 +14,11 @@ Technologies Used :
 - Power BI
 
 
+
 Project Workflow :
 
   Dataset Creation → Python → MySQL Connection → User Input → Data Validation → Behavior Analysis → Risk Score Calculation → Risk Level & Reason → Security Recommendation → Power BI Dashboard → Risk & Behavior Insights
+
 
 
 Risk Analysis :
@@ -25,6 +28,7 @@ The system analyzes factors such as:
 - New or unusual device
 - Unusual login time
 Based on predefined conditions, the system calculates a risk score and classifies the activity into an appropriate risk level.
+
 
 
 Key Insights :
