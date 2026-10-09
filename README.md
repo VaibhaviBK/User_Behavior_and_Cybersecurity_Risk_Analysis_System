@@ -42,3 +42,7 @@ Key Insights :
 - Visualized user behavior and cybersecurity risk insights through Power BI.
 
 
+Future Scope :
+   
+     Integrate Machine Learning to automatically detect unusual login behavior and suspicious activity, making the system more intelligent and effective at identifying potential cybersecurity risks.
+
