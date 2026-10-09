@@ -27,7 +27,7 @@ The system analyzes factors such as:
 - Unusual location
 - New or unusual device
 - Unusual login time
-Based on predefined conditions, the system calculates a risk score and classifies the activity into an appropriate risk level.
+- Based on predefined conditions, the system calculates a risk score and classifies the activity into an appropriate risk level.
 
 
 
@@ -44,5 +44,5 @@ Key Insights :
 
 Future Scope :
    
-     Integrate Machine Learning to automatically detect unusual login behavior and suspicious activity, making the system more intelligent and effective at identifying potential cybersecurity risks.
+      Integrate Machine Learning to automatically detect unusual login behavior and suspicious activity, making the system more intelligent and effective at identifying potential cybersecurity risks.
 
