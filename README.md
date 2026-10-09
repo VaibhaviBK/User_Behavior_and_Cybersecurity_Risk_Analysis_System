@@ -2,7 +2,8 @@ User Behavior & Cybersecurity Risk Analysis System
 
 Project Overview :
 
-      The Project designed to analyze user login activities and identify unusual behavior that may indicate potential cybersecurity risks. The system examines user, device, and location information to understand login patterns and detect activities such as logins from new devices or unusual locations. Based on the identified behavior, the system provides security recommendations to help improve user account monitoring and security.
+The Project designed to analyze user login activities and identify unusual behavior that may indicate potential cybersecurity risks. The system examines user, device, and location information to understand login patterns and detect activities such as logins from new devices or unusual locations. 
+Based on the identified behavior, the system provides security recommendations to help improve user account monitoring and security.
 
 
 
@@ -44,5 +45,6 @@ Key Insights :
 
 Future Scope :
    
-      Integrate Machine Learning to automatically detect unusual login behavior and suspicious activity, making the system more intelligent and effective at identifying potential cybersecurity risks.
+Integrate Machine Learning to automatically detect unusual login behavior and suspicious activity.
+Making the system more intelligent and effective at identifying potential cybersecurity risks.
 
